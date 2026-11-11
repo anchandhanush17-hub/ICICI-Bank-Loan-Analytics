@@ -42,11 +42,11 @@ This project focuses on analyzing banking loan data using Microsoft Power BI. Th
 - Dataset: Source dataset (if shareable).
 ## Dashboard Preview
 ### Dashboard 1
-![Dashboard 1](Screenshots/Dashboard_1.png)
+![Dashboard 1](Dashboard_1.png)
 ### Dashboard 2
-![Dashboard 2](Screenshots/Dashboard_2.png)
+![Dashboard 2](Dashboard_2.png)
 ### Dashboard 3
-![Dashboard 3](Screenshots/Dashboard_3.png)
+![Dashboard 3](Dashboard_3.png)
 ## Author
 Dhanush Anchan
 Aspiring Data Analyst
